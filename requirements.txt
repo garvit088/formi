@@ -1,0 +1,5 @@
+Flask
+pandas
+geopy
+fuzzywuzzy
+python-Levenshtein
